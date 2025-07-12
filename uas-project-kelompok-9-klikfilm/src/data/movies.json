@@ -1,0 +1,136 @@
+{
+  "premiers": [
+    {
+      "id": 1,
+      "url": "mayhem",
+      "is_premium": true
+    },
+    {
+      "id": 2,
+      "url": "black_box_diaries",
+      "is_premium": false
+    },
+    {
+      "id": 3,
+      "url": "small_things_like_these",
+      "is_premium": false
+    },
+    {
+      "id": 4,
+      "url": "ghost_cat_anzu_rev",
+      "is_premium": false
+    },
+    {
+      "id": 5,
+      "url": "coup",
+      "is_premium": true
+    },
+    {
+      "id": 6,
+      "url": "the_teacher",
+      "is_premium": true
+    },
+    {
+      "id": 7,
+      "url": "a_place_of_one_s_own",
+      "is_premium": false
+    },
+    {
+      "id": 8,
+      "url": "Bursting_Point",
+      "is_premium": false
+    },
+    {
+      "id": 9,
+      "url": "djago",
+      "is_premium": true
+    },
+    {
+      "id": 10,
+      "url": "modern_persuasion",
+      "is_premium": false
+    },
+    {
+      "id": 11,
+      "url": "all_we_imagine",
+      "is_premium": true
+    },
+    {
+      "id": 12,
+      "url": "adult_best_friends",
+      "is_premium": false
+    },
+    {
+      "id": 13,
+      "url": "sarung_untuk_bapak",
+      "is_premium": false
+    }
+  ],
+  "editors": [
+    {
+      "id": 1,
+      "url": "inshallah_a_boy",
+      "is_premium": false
+    },
+    {
+      "id": 2,
+      "url": "hot_milk",
+      "is_premium": true
+    },
+    {
+      "id": 3,
+      "url": "daddio_rev",
+      "is_premium": false
+    },
+    {
+      "id": 4,
+      "url": "four_daughter_rev",
+      "is_premium": false
+    },
+    {
+      "id": 5,
+      "url": "theres_still_tomorrow",
+      "is_premium": true
+    },
+    {
+      "id": 6,
+      "url": "marcello_mio_rev",
+      "is_premium": true
+    },
+    {
+      "id": 7,
+      "url": "silent_roar",
+      "is_premium": false
+    },
+    {
+      "id": 8,
+      "url": "may_december",
+      "is_premium": false
+    },
+    {
+      "id": 9,
+      "url": "crossing",
+      "is_premium": true
+    },
+    {
+      "id": 10,
+      "url": "nocebo",
+      "is_premium": false
+    },
+    {
+      "id": 11,
+      "url": "la_cocina_rev",
+      "is_premium": true
+    },
+    {
+      "id": 12,
+      "url": "how_to_make_millions_oscar_rev",
+      "is_premium": false
+    },
+    {
+      "id": 13,
+      "url": "twpitw",
+      "is_premium": false
+    }
+  ]
+}
