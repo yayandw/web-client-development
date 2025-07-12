@@ -1,5 +1,5 @@
 ## 🌐 Live Website
-https://master.dnd18zakbk182.amplifyapp.com/
+[https://master.dnd18zakbk182.amplifyapp.com/](https://master.d3jlxi5bxvcg6c.amplifyapp.com/)
 
 ## 📬 Contact
 1. Fairuz Fajri - 24120400014
