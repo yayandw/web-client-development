@@ -2,7 +2,7 @@
 ## 🌐 Live Website
 [https://master.dnd18zakbk182.amplifyapp.com/](https://master.d3jlxi5bxvcg6c.amplifyapp.com/)
 
-## 📬 Contact
+## 📬 Members
 1. Fairuz Fajri - 24120400014
 2. Wildan Rizky Wijaya - 24110500029
 3. Yayan Dwi Wicaksono - 24120510007
